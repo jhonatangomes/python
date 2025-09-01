@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0714f700-6786-446b-86f4-63228fcf6bbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo 01 - Fundamentos/ex025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 01 - Fundamentos/ex026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 01 - Fundamentos/ex027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 01 - Fundamentos/ex032.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo 01 - Fundamentos/ex024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo 01 - Fundamentos/ex024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo 01 - Fundamentos/ex031.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo 01 - Fundamentos/ex031.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +62,7 @@
     "Python.ex029.executor": "Run",
     "Python.ex030.executor": "Run",
     "Python.ex031.executor": "Run",
+    "Python.ex032.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "git-widget-placeholder": "main",
