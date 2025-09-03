@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0714f700-6786-446b-86f4-63228fcf6bbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex045.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +72,9 @@
     "Python.ex039.executor": "Run",
     "Python.ex040.executor": "Run",
     "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex044.executor": "Run",
+    "Python.ex045.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
