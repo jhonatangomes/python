@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0714f700-6786-446b-86f4-63228fcf6bbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/aula while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex059.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex046.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex046.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex047.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex048.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex048.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/jogo-flappy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/jogo-flappy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex054.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex054.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +43,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.aula for.executor": "Run",
+    "Python.aula while.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
@@ -91,6 +87,10 @@
     "Python.ex050.executor": "Run",
     "Python.ex052.executor": "Run",
     "Python.ex053.executor": "Run",
+    "Python.ex054.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
+    "Python.ex059.executor": "Run",
     "Python.ex51.executor": "Run",
     "Python.jogo-flappy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
