@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0714f700-6786-446b-86f4-63228fcf6bbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex068.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex51.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex051.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +97,9 @@
     "Python.ex063.executor": "Run",
     "Python.ex064.executor": "Run",
     "Python.ex065.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex067.executor": "Run",
+    "Python.ex068.executor": "Run",
     "Python.ex51.executor": "Run",
     "Python.jogo-flappy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
