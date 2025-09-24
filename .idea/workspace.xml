@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0714f700-6786-446b-86f4-63228fcf6bbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 02 - Estrutura de Controle/ex071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/aula16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex075.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +47,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.aula for.executor": "Run",
     "Python.aula while.executor": "Run",
+    "Python.aula16.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
@@ -100,6 +106,13 @@
     "Python.ex066.executor": "Run",
     "Python.ex067.executor": "Run",
     "Python.ex068.executor": "Run",
+    "Python.ex069.executor": "Run",
+    "Python.ex070.executor": "Run",
+    "Python.ex071.executor": "Run",
+    "Python.ex072.executor": "Run",
+    "Python.ex073.executor": "Run",
+    "Python.ex074.executor": "Run",
+    "Python.ex075.executor": "Run",
     "Python.ex51.executor": "Run",
     "Python.jogo-flappy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
