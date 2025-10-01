@@ -1,4 +1,4 @@
-cont = 0
+'''cont = 0
 tot = 0
 num = int(input('Digite um número: '))
 for c in range(1, num + 1):
@@ -12,4 +12,16 @@ print('\n\033[mO número {} foi divisível {} vezes'.format(num, cont))
 if cont == 2:
     print('Ele é primo')
 else:
-    print('Não é primo')
+    print('Não é primo')'''
+
+
+cont = 0
+num = int(input('Digite um numero: '))
+for c in range(1, num + 1):
+    if num % c == 0:
+        print(c)
+        cont += 1
+if cont == 2:
+    print('Ele é Primo')
+else:
+    print('Ele não é primo')
