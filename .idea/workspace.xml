@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0714f700-6786-446b-86f4-63228fcf6bbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/aula18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex087.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex082.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo 03 - Estrutura Compostas/ex082.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +118,9 @@
     "Python.ex081.executor": "Run",
     "Python.ex082.executor": "Run",
     "Python.ex084.executor": "Run",
+    "Python.ex085.executor": "Run",
+    "Python.ex086.executor": "Run",
+    "Python.ex087.executor": "Run",
     "Python.ex51.executor": "Run",
     "Python.jogo-flappy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
